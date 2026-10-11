@@ -1,0 +1,28 @@
+user: Hi. 
+agent: Hi, I’m Priya calling from Home Credit. Am I speaking with Rahul Sharma?
+user: Yes. 
+agent: Is this a good time to 
+user: Yes. 
+agent: talk for a couple of minutes?
+agent: Home Credit is reaching out to you as a valued existing customer about a special Loan Against Property offer of up to ₹75 lakh. This is a preliminary assessment, not a final approval—may I ask a few quick questions?
+user: Okay. 
+agent: What type of property is it: residential, commercial, industrial, or agricultural?
+user: Residential. 
+agent: Is the property solely owned by you or jointly owned?
+user: Only only by me. 
+agent: Are the original property documents available for verification?
+user: Available. 
+agent: How much would you 
+user: Fifty leg. 
+agent: like to borrow?
+agent: Did you mean ₹50 lakh?
+user: Yes. 
+agent: Are you salaried or self-employed, and does your income come into a bank account?
+user: Ma'am, salary and my income come into my bank account. 
+agent: What’s the approximate current market value of the property?
+user: Sixty five lakh. 
+agent: And in how many years would you like 
+user: Ten years. 
+agent: to repay the loan?
+agent: Thank you. I’ve collected the preliminary eligibility information, and a senior loan expert will call shortly to discuss the next steps and exact 
+agent: interest rates.

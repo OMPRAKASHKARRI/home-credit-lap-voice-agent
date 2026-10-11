@@ -1,0 +1,36 @@
+2026-10-11 01:07:13.854 call_5cc52594a16b03310486938d2e6 info: Starting call: call_5cc52594a16b03310486938d2e6
+2026-10-11 01:07:20.046 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 3814 }
+2026-10-11 01:07:20.851 call_5cc52594a16b03310486938d2e6 info: Latency for response_id: 1 - e2e: 1811.000244140625 asr: 96 llm: 492 tts: 120
+2026-10-11 01:07:26.737 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 3845 }
+2026-10-11 01:07:26.872 call_5cc52594a16b03310486938d2e6 info: Latency for response_id: 2 - e2e: 792 asr: 252 llm: 349 tts: 164
+2026-10-11 01:07:30.751 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 3871 }
+2026-10-11 01:07:31.590 call_5cc52594a16b03310486938d2e6 info: Latency for response_id: 3 - e2e: 1710 asr: 156 llm: 505 tts: 125
+2026-10-11 01:07:45.605 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 3929 }
+2026-10-11 01:07:45.740 call_5cc52594a16b03310486938d2e6 info: Latency for response_id: 4 - e2e: 790 asr: 210 llm: 400 tts: 163
+2026-10-11 01:07:51.950 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 3958 }
+2026-10-11 01:07:52.130 call_5cc52594a16b03310486938d2e6 info: Latency for response_id: 5 - e2e: 950 asr: 410 llm: 310 tts: 204
+2026-10-11 01:07:58.015 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 3934 }
+2026-10-11 01:07:58.262 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 3985 }
+2026-10-11 01:07:58.360 call_5cc52594a16b03310486938d2e6 info: Latency for response_id: 7 - e2e: 850 asr: 361 llm: 353 tts: 122
+2026-10-11 01:08:03.120 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 4007 }
+2026-10-11 01:08:03.746 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 3953 }
+2026-10-11 01:08:03.986 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 4007 }
+2026-10-11 01:08:04.195 call_5cc52594a16b03310486938d2e6 info: Latency for response_id: 10 - e2e: 985 asr: 460 llm: 277 tts: 231
+2026-10-11 01:08:07.453 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 4030 }
+2026-10-11 01:08:08.514 call_5cc52594a16b03310486938d2e6 info: Latency for response_id: 11 - e2e: 1714 asr: 143 llm: 276 tts: 172
+2026-10-11 01:08:11.169 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 3983 }
+2026-10-11 01:08:11.559 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 4050 }
+2026-10-11 01:08:11.668 call_5cc52594a16b03310486938d2e6 info: Latency for response_id: 13 - e2e: 807 asr: 243 llm: 399 tts: 139
+2026-10-11 01:08:20.802 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 4092 }
+2026-10-11 01:08:20.899 call_5cc52594a16b03310486938d2e6 info: Latency for response_id: 14 - e2e: 578.998046875 asr: 90 llm: 334 tts: 126
+2026-10-11 01:08:26.108 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 4043 }
+2026-10-11 01:08:26.266 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 4042 }
+2026-10-11 01:08:26.383 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 4119 }
+2026-10-11 01:08:26.497 call_5cc52594a16b03310486938d2e6 info: Latency for response_id: 17 - e2e: 917 asr: 441 llm: 307 tts: 143
+2026-10-11 01:08:31.432 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 4064 }
+2026-10-11 01:08:31.981 call_5cc52594a16b03310486938d2e6 info: llm input token length calculated { tokenLength: 4146 }
+2026-10-11 01:08:32.409 call_5cc52594a16b03310486938d2e6 info: Latency for response_id: 19 - e2e: 1909.0048828125 asr: 502 llm: 867 tts: 170
+2026-10-11 01:08:41.526 call_5cc52594a16b03310486938d2e6 info: Calling tool: end_call 
+Arguments: {"execution_message":"Thank you. I’ve collected the preliminary eligibility information, and a senior loan expert will call shortly to discuss the next steps and exact interest rates."}
+2026-10-11 01:08:41.526 call_5cc52594a16b03310486938d2e6 info: end call custom sip headers undefined
+2026-10-11 01:08:41.526 call_5cc52594a16b03310486938d2e6 info: Ending call: call_5cc52594a16b03310486938d2e6
